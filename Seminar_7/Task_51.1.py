@@ -24,6 +24,7 @@ if same_by(lambda x: x % 2, values):
 else:
     print('different')
 
+
 # С делением на 3
 def same_by(characteristic, objects):
     result = []
